@@ -3,7 +3,7 @@ import './App.scss';
 
 function App() {
 
-  const [inValue, setInValue] = useState('');
+  const [inValue, setInValue] = useState(null);
   const elBox = useRef()
   const elInput = useRef()
 
@@ -29,15 +29,16 @@ function App() {
             <button type='button' onClick={() => {
               if (inValue == '2210400110') {
                 elBox.current.classList.add('active');
+              } else if (!inValue == '2210400110') {
+                elBox.current.classList.remove('active');
               } else {
                 setInValue('')
                 elInput.current.value = ''
-                // elInput.style.placeholder = "Kayit bulunamadi..";
                 elBox.current.classList.remove('active');
               }
             }}>GETİR</button>
 
-            <div className="sonuc active" ref={elBox}>
+            <div className="sonuc" ref={elBox}>
               <table>
                 <tbody>
                   <tr>

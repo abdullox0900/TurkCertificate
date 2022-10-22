@@ -43,7 +43,7 @@ function App() {
                 <tbody>
                   <tr>
                     <td>TC NO</td>
-                    <td>FA1380771</td>
+                    <td>FA 0070309</td>
                   </tr>
                   <tr>
                     <td>ADI SOYADI</td>

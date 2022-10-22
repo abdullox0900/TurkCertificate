@@ -59,11 +59,11 @@ function App() {
                   </tr>
                   <tr>
                     <td>OKUMA</td>
-                    <td>17</td>
+                    <td>17.5</td>
                   </tr>
                   <tr>
                     <td>YAZMA</td>
-                    <td>17</td>
+                    <td>16.5</td>
                   </tr>
                   <tr>
                     <td>KONUŞMA</td>

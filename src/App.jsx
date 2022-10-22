@@ -55,39 +55,39 @@ function App() {
                   </tr>
                   <tr>
                     <td>DİNLEME</td>
-                    <td>20</td>
+                    <td>19</td>
                   </tr>
                   <tr>
                     <td>OKUMA</td>
-                    <td>19,5</td>
+                    <td>17</td>
                   </tr>
                   <tr>
                     <td>YAZMA</td>
-                    <td>18</td>
+                    <td>17</td>
                   </tr>
                   <tr>
                     <td>KONUŞMA</td>
-                    <td>14</td>
+                    <td>13</td>
                   </tr>
                   <tr>
                     <td>TOPLAM</td>
-                    <td>71,5</td>
+                    <td>66</td>
                   </tr>
                   <tr>
                     <td>SONUÇ</td>
-                    <td>C1</td>
+                    <td>B1</td>
                   </tr>
                   <tr>
                     <td>SINAV TARİHİ</td>
-                    <td>3 Ekim 2022</td>
+                    <td>17 Ekim 2022</td>
                   </tr>
                   <tr>
                     <td>BELGE TARİHİ</td>
-                    <td>4 Ekim 2022</td>
+                    <td>17 Ekim 2022</td>
                   </tr>
                   <tr>
                     <td>SERTİFİKA NO</td>
-                    <td>2210400152</td>
+                    <td>2210400110</td>
                   </tr>
                 </tbody>
               </table>

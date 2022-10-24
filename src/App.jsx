@@ -83,7 +83,7 @@ function App() {
                   </tr>
                   <tr>
                     <td>BELGE TARİHİ</td>
-                    <td>17 Ekim 2022</td>
+                    <td>18 Ekim 2022</td>
                   </tr>
                   <tr>
                     <td>SERTİFİKA NO</td>
